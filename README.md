@@ -1,2 +1,1 @@
-# mmdetection
-mmdetection docker images
+# [MMDetection](https://github.com/open-mmlab/mmdetection)
